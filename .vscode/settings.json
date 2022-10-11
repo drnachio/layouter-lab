@@ -2,9 +2,11 @@
   "cSpell.words": [
     "layouter",
     "Layouter",
+    "NEXTAUTH",
     "superjson",
     "tailwindcss",
     "tanstack",
-    "trpc"
+    "trpc",
+    "typesafe"
   ]
 }
