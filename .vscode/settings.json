@@ -3,6 +3,7 @@
     "layouter",
     "Layouter",
     "NEXTAUTH",
+    "sqlite",
     "superjson",
     "tailwindcss",
     "tanstack",
