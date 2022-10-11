@@ -38,3 +38,7 @@ And after adding it to the project:
 - `pnpm run dev`
 
 > **Note:** Yep, pnpm is my weapon of choice for the project because I want to evaluate it. Please **do not** `npm install` and generate a `package.json` file.
+
+## URLs of the project
+
+- Prod: [layouter.vercel.app](https://layouter.vercel.app/)
