@@ -11,7 +11,7 @@ const navigation = [
   { name: 'Home', href: '#' },
   { name: 'Gallery', href: '#' },
   { name: 'Documentation', href: '#' },
-  { name: 'Back Office', href: '#' },
+  { name: 'Back Office', href: 'https://layouter-lab-back.up.railway.app/' },
 ];
 
 const features = [
