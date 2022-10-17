@@ -91,6 +91,10 @@ const Index: NextPage = () => {
     <>
       <Head>
         <title>Layout Labs</title>
+        <meta
+          name="description"
+          content="A system designed to multiply the educational and visual value of all your contents"
+        />
       </Head>
       <div className="relative overflow-hidden bg-white font-sans">
         <div className="mx-auto max-w-7xl">
@@ -279,7 +283,8 @@ const Index: NextPage = () => {
               Trusted by content creators all around the Planet
             </h2>
             <p className="mt-3 text-xl text-indigo-200 sm:mt-4 md:mx-10">
-              A solution designed from scratch so you do not have to worry about anything but create the best content for your students and general public
+              A solution designed from scratch so you do not have to worry about anything but create
+              the best content for your students and general public
             </p>
           </div>
           <dl className="mt-10 text-center sm:mx-auto sm:grid sm:max-w-3xl sm:grid-cols-3 sm:gap-8">
@@ -414,7 +419,7 @@ const Index: NextPage = () => {
                 <div className="mt-3 rounded-md sm:mt-0 sm:ml-3 sm:flex-shrink-0">
                   <button
                     type="submit"
-                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-500 py-2 px-4 text-base font-medium text-white hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800"
+                    className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-800 py-2 px-4 text-base font-medium text-white hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800"
                   >
                     Subscribe
                   </button>
