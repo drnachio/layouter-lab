@@ -21,7 +21,7 @@ const MyDocument = (): JSX.Element => (
         rel="stylesheet"
       />
       <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+      <link rel="icon" type="image/x-icon" href="/isotype.png" />
       <script type="text/javascript" dangerouslySetInnerHTML={script} />
     </Head>
     <body className="w-full bg-white font-serif dark:bg-black dark:text-white">
