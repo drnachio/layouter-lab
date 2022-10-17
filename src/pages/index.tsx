@@ -221,7 +221,7 @@ const Index: NextPage = () => {
                 </h1>
                 <p className="mt-3 text-base text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
                   A system designed to multiply the educational and visual value of all your
-                  contents.
+                  contents
                 </p>
                 <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                   <div className="rounded-md shadow">
@@ -313,7 +313,7 @@ const Index: NextPage = () => {
             </p>
             <p className="mt-4 text-lg text-gray-500">
               We take care of the complete life cycle necessary for your knowledge to be learned in
-              the most efficient way.
+              the most efficient way
             </p>
           </div>
           <div className="mt-12 lg:col-span-2 lg:mt-0">
