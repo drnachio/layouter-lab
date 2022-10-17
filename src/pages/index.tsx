@@ -118,7 +118,7 @@ const Index: NextPage = () => (
           <div className="sm:text-center lg:text-left">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
               <span className="block xl:inline">The Layout System that enrich your</span>{' '}
-              <span className="block text-indigo-600 xl:inline">Educational Contents</span>
+              <span className="block text-indigo-600 xl:inline">Educational Content</span>
             </h1>
             <p className="mt-3 text-base text-gray-500 sm:mx-auto sm:mt-5 sm:max-w-xl sm:text-lg md:mt-5 md:text-xl lg:mx-0">
               A system designed to multiply the educational and visual value of all your contents.
